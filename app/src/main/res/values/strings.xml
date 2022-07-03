@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">My Application21</string>
+    <string name="app_name">My Application 2</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_books">Books</string>
+    <string name="menu_main">Main</string>
+    <string name="menu_favourites">Favourites</string>
+    <string name="menu_settings">Settings</string>
 </resources>
